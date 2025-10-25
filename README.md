@@ -1,1 +1,1 @@
-# ImageUpscaler
+# Image Upscaler
